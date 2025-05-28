@@ -19,20 +19,6 @@ This is a Power BI dashboard created to analyze and visualize grocery sales data
 - **Top-Selling Item Types**: Bar chart of highest-grossing item categories
 - **Outlet Type Summary**: Comparison of total sales, number of items, average rating, and average sales
 
----
-
-## 📂 Project Structure
-
-📁 Blinkit-Sales-Dashboard
-│
-├── 📄 Blinkit_Dashboard.pbix # Main Power BI file
-├── 📁 Assets/
-│ └── blinkit-dashboard.jpeg # Dashboard screenshot
-└── 📄 README.md # This file
-
-yaml
-Copy
-Edit
 
 ---
 
